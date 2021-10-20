@@ -1,12 +1,11 @@
-#include <iostream>
-#include "Zombie.h"
+#include "Zombie.hpp"
 int main()
 {
 	Zombie* first;
 	Zombie* second;
 	std::cout << "________________randomChum_________________" << std::endl;
 	randomChump("Zack");
-	randomChump("Jack");
+	randomChump("Jhone");
 	std::cout << "________________newZombie_________________" << std::endl;
 	first = newZombie("Linda");
 	first->announce();

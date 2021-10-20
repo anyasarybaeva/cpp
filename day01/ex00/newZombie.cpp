@@ -1,9 +1,6 @@
-#include "Zombie.h"
-Zombie* newZombie(std::string name)
+#include "Zombie.hpp"
+Zombie* newZombie( std::string name )
 {
-	Zombie *pointer_new_zombie=new Zombie;		
-	pointer_new_zombie->set_name(name);
-	//Zombie new_zombie(name);
-	//pointer_new_zombie = &new_zombie;
+	Zombie *pointer_new_zombie=new Zombie(name);		
 	return(pointer_new_zombie);
 }

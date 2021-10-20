@@ -1,4 +1,5 @@
-#pragma once
+#ifndef ZOMBIE_HPP
+#define ZOMBIE_HPP
 #include<iostream>
 
 class Zombie
@@ -12,6 +13,5 @@ class Zombie
 	private:
 		std::string name;
 };
-Zombie* newZombie(std::string name);
-int randomChump(std::string name);//cng type
-
+Zombie* zombieHorde(int N, std::string name);
+#endif
