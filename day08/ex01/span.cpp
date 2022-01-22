@@ -16,13 +16,12 @@ void Span::addNumber(int _number)
 		throw std::exception();
 	list.push_back(_number);
 }
-// добавляет в конец несколько элкментов
-//ошибка когда 2 списка подряд перекрывают друг дргуа
+// добавляет в конец несколько элeментов
 void Span::addList(std::list<int> _list)
 {
 	if((list.size()+_list.size())>N || _list.empty())
 		throw std::exception();
-	list.insert(--list.end(),_list.begin(),_list.end());
+	list.insert(list.end(),_list.begin(),_list.end());
 }
 
 Span::Span(Span const &copy)
@@ -67,7 +66,7 @@ int Span::longestSpan()
 	for (std::list<int>::iterator iter = ++list.begin(); iter != list.end(); iter++)
     {
        if(std::abs(*iter -*old)>dif)
-			dif=*iter -*old;
+			dif=std::abs(*iter -*old);
 		old=iter;
     }
 	return(dif);

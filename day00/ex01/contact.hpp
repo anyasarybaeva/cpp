@@ -1,15 +1,15 @@
+
 #ifndef CONTACT_HPP
 #define CONTACT_HPP
+#include"PhoneBook.hpp"
 #include<iostream>
 class contact
 {
 	public:
-		  void set_name();
-	privat:
-		  int index[8];
-		  string name[8];
-		  string
-		  
-
+	   	void get_contact_info(int);
+		void get_phone_book();
+		void add_contact();
+	private:
+		PhoneBook PB;
 };
 #endif
