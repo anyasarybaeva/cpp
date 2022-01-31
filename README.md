@@ -15,7 +15,7 @@
   - This module is designed to help you understand Subtype polymorphism, abstract classes and interfaces in CPP.
   - Result: 80%
 - day05
- - This module is designed to help you understand Try/Catch and Exceptions in CPP.
+  - This module is designed to help you understand Try/Catch and Exceptions in CPP.
   - Result: 85%
 - day06
   - This module is designed to help you understand the different casts in CPP.
