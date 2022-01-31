@@ -1,0 +1,28 @@
+#cpp
+- day00 
+  - Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff.
+  - Result: 100%
+- day01
+  - This module is designed to help you understand the memory allocation, reference, pointers to members and the usage of the switch in CPP.
+  - Result: 100%
+- day02
+  - This module is designed to help you understand Ad-hoc polymorphism, overloads and orthodox canonical classes in CPP.
+  - Result: 80%
+- day03
+  - This module is designed to help you understand Inheritance in CPP.
+  - Result: 80%
+- day04
+  - This module is designed to help you understand Subtype polymorphism, abstract classes and interfaces in CPP.
+  - Result: 80%
+- day05
+ - This module is designed to help you understand Try/Catch and Exceptions in CPP.
+  - Result: 85%
+- day06
+  - This module is designed to help you understand the different casts in CPP.
+  - Result: 100%
+- day07
+  - This module is designed to help you understand Templates in CPP.
+  - Result: 100%
+- day08
+  - This module is designed to help you understand templated containers, iterators and algorithms in CPP.
+  - Result: 100%
