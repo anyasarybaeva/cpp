@@ -1,10 +1,12 @@
-#C++ modeules
+# C++ modeules
 
 The goal of these modules is to introduce to Object-Oriented Programming.
 
-##Final mark
+---
+## Final mark
 <img width="205" alt="Снимок экрана 2022-04-22 в 00 58 21" src="https://user-images.githubusercontent.com/36243405/164558753-31821c2e-4888-4094-af89-8490b15a9bd0.png">
 
+---
 - day00 
   - Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff.
   - Result: 100%
