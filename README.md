@@ -9,11 +9,11 @@ The goal of these modules is to introduce to Object-Oriented Programming.
 ---
 - day00 
   - Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff.
-  - <img width="100" alt="Снимок экрана 2022-04-22 в 00 58 21" src="https://user-images.githubusercontent.com/36243405/164559144-2300ed3c-ffc4-46cf-9b61-dccce2a87742.png">
+  - Result:<img width="100" alt="Снимок экрана 2022-04-22 в 00 58 21" src="https://user-images.githubusercontent.com/36243405/164559144-2300ed3c-ffc4-46cf-9b61-dccce2a87742.png">
 
 - day01
   - This module is designed to help you understand the memory allocation, reference, pointers to members and the usage of the switch in CPP.
-  - Result: 100%
+ - <img width="100" alt="Снимок экрана 2022-04-22 в 00 58 21" src="https://user-images.githubusercontent.com/36243405/164559144-2300ed3c-ffc4-46cf-9b61-dccce2a87742.png">
 - day02
   - This module is designed to help you understand Ad-hoc polymorphism, overloads and orthodox canonical classes in CPP.
   - Result: 80%
@@ -28,7 +28,7 @@ The goal of these modules is to introduce to Object-Oriented Programming.
   - Result: 85%
 - day06
   - This module is designed to help you understand the different casts in CPP.
-  - Result: 100%
+ - <img width="100" alt="Снимок экрана 2022-04-22 в 00 58 21" src="https://user-images.githubusercontent.com/36243405/164559144-2300ed3c-ffc4-46cf-9b61-dccce2a87742.png">
 - day07
   - This module is designed to help you understand Templates in CPP.
   - Result: 100%
